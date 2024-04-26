@@ -15,11 +15,4 @@
     <ProjectReference Include="..\POS.Utilities\POS.Utilities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Dtos\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Persistences\Interfaces\" />
-    <Folder Include="Persistences\Repositories\" />
-  </ItemGroup>
-
 </Project>
